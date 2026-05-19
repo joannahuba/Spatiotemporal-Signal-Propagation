@@ -64,13 +64,13 @@ Main analyses:
 Notebook:
 
 ```text
-notebooks-part2/Part1_Block2_Comparison.ipynb
+notebooks-part3/Part2_L1_LaggedExposure.ipynb
 ```
 
 Main analyses:
+- WT vs PIK3CA_H1047R vs AKT1_E17K
 - lagged Relative Risk curves RR(τ)
 - temporal propagation dynamics
-- WT vs PIK3CA_H1047R vs AKT1_E17K
 - optimal lag estimation
 
 ---
@@ -80,7 +80,7 @@ Main analyses:
 Notebook:
 
 ```text
-notebooks-part2/Part2_L3_DoseResponse.ipynb
+notebooks-part2/Part1_Block2_ParameterSensitivity.ipynb
 ```
 
 Main analyses:
@@ -177,6 +177,12 @@ predictable from graph topology and neighboring cellular states.
 - PyTorch Geometric
 
 ---
+
+# Output files
+- lagged_exposure_table.csv
+- lagged_line_plot.png
+- mutations_barplot.png
+- mutations_comparison_table.csv
 
 # Biological Motivation
 
