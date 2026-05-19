@@ -22,8 +22,7 @@ __pycache__/
 # =========================
 # Outputs / experiments
 # =========================
-outputs/
-analysis_outputs/
+
 
 
 # =========================
@@ -50,4 +49,5 @@ build/
 # =========================
 # Large data (opcjonalnie)
 # =========================
-*.csv.gz
+single-cell-tracks_exp1-6_noErbB2.csv.gz
+analysis_outputs/
